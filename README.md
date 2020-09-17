@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## SAMPLE HEADING
 
-whatever really.Adding this to understand HEAD concept in git
+whatever really.
+
+Adding this to understand HEAD concept in git
