@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## SAMPLE HEADING
 
-whatever really
+whatever really.Addin this to understand how HEAD works
